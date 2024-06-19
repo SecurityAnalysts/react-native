@@ -31,7 +31,7 @@
   "devDependencies": {
     "babel-plugin-transform-flow-enums":"^0.0.2",
     "connect": "^3.6.5",
-    "ws": "^6.2.2"
+    "ws": "^6.2.3"
   },
   "codegenConfig": {
     "name": "AppSpecs",
